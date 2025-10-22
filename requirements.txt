@@ -1,0 +1,6 @@
+scapy
+socket
+datetime
+pandas 
+sqlite3
+tkinter 
